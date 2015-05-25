@@ -1,25 +1,10 @@
-# jemdoc: showsource
-= Hyunjun Kim
+ = Hyunjun Kim
 
-Hyunjun Kim(김현준) is an undergraduate student in computer science and also a professional software engineer since 2011. He writes code mostly in Python and is interested in large-scale web services. He is living in and is from Seoul, South Korea.\n
-\n
-
-You may find him in below:
-- Email: [mailto:yoloseem@gmail.com yoloseem at gmail.com]
-- Profiles: [https://github.com/yoloseem GitHub], [https://www.stylesha.re/khj StyleShare], [http://instagram.com/yoloseem Instagram], [https://stackoverflow.com/users/1101388/yoloseem Stack Overflow]
-
-== Open Source Contirubtions
-- [http://crsmithdev.com/arrow/ Arrow]: [https://github.com/crsmithdev/arrow/pull/62 \#62], [https://github.com/crsmithdev/arrow/pull/67 \#67], [https://github.com/crsmithdev/arrow/pull/68 \#68],
-- [https://flask-debugtoolbar.readthedocs.org/en/latest/ Flask-DebugToolbar]: [https://github.com/mgood/flask-debugtoolbar/pull/43 \#43], [https://github.com/mgood/flask-debugtoolbar/pull/48 \#48]
-- [https://pythonhosted.org/FormEncode-Jinja2/ FormEncode-Jinja2]: [https://github.com/Kroisse/FormEncode-Jinja2/pull/1 \#1]
-- [https://github.com/muan/github-gmail GitHub-Gmail]: [https://github.com/muan/github-gmail/pull/28 \#28]
-- [https://github.com/vimeo/libvmod-boltsort libvmod-boltsort]: [https://github.com/vimeo/libvmod-boltsort/pull/4 \#4]
-- [https://lqez.github.io/logiform/ Logiform]: [https://github.com/lqez/logiform/pull/1 \#1], [https://github.com/lqez/logiform/pull/2 \#2]
-- [https://pypi.python.org/pypi/Okydoky Okydoky]: [https://github.com/crosspop/okydoky/pull/10 \#10]
-- [https://github.com/leekchan/phpy phpy]: [https://github.com/leekchan/phpy/pull/2 \#2], [https://github.com/leekchan/phpy/pull/3 \#3]
-- [http://initd.org/psycopg/ Psycopg2]: [https://github.com/psycopg/psycopg2/pull/272 \#272]
-- [https://github.com/snowplow/referer-parser referer-parser]: [https://github.com/snowplow/referer-parser/pull/52 \#52]
-- [https://github.com/lericson/simples3 simples3]: [https://github.com/lericson/simples3/pull/15 \#15]
+- Name: 김현준 (Hyunjun Kim)
+- Email: [mailto:yoloseem@gmail.com yoloseem@gmail.com]
+- Phone: +82 10-8597-5340
+- Birthdate: 1994. 2. 28.
+- Profiles: [https://github.com/yoloseem GitHub], [https://stackoverflow.com/users/1101388/yoloseem Stack Overflow]
 
 == Education
 - Undergraduate, [http://cs.hanyang.ac.kr/ Computer Science and Engineering], [http://www.hanyang.ac.kr/english/ Hanyang University], March 2012 -
@@ -27,15 +12,19 @@ You may find him in below:
 
 == Work Experiences
 - Lead Software Engineer at [http://about.stylesha.re/ StyleShare Inc.], November 2011 - Current
+-- Built an advertisement system and backends for various features, optimized implementations such as real-time trending contents, set up distributed service architecture and deployment process on Amazon Web Services, and developed in-house SQLAlchemy fork to be seamlessely integrated with memory cache.
+-- Technologies: Python, Flask, Celery, SQLAlchemy, PostgreSQL, PL/pgSQL, Redis, Memcached, Nginx, Varnish, Amazon Web Services, Git
 - Lead Engineer at Yumobi, 2013
--- Built a mobile backend service created in the SAMSUNG sGen Global Competition
+-- Built a managed mobile backend service(backend-as-a-service) created in the SAMSUNG sGen Global Competition
 -- Selected as one of the 12 finalists of the over 2,700 entries
+-- Technologies: Python, Flask, SQLAlchemy, PostgreSQL, Nginx, Amazon Web Services, Git
 - Intern at [http://eng.kist.re.kr/kist_eng/main/ Korea Institute of Science and Technology], 2010
 -- Summer internship program for high-schoolers
+-- Technologies: C++, OpenCV
 
 == Awards
 - [http://cm.baylor.edu/ ACM International Collegiate Programming Contest] (ACM-ICPC)
--- (In Korea, it combines a regional contest and National Collegiate Programming Contest organized by [english.msip.go.kr/english/main/main.do MSIP])
+-- (In Korea, it combines a regional contest and National Collegiate Programming Contest organized by [http://english.msip.go.kr/english/main/main.do MSIP])
 -- Asia/Daejeon Regional 2014: 7th Place, Silver Prize
 -- Asia/Daejeon Regional 2013: 9th Place, NEXON special award
 -- Asia/Daejeon Regional 2012: 11th Place
@@ -52,7 +41,11 @@ You may find him in below:
 
 == Organizations
 - Mentee of [http://www.swmaestro.kr/main.do Software Maestro], 2010 - 2011
-- Incubation Team Member of [http://www.primer.kr/ Primer Club], 2011 -
+-- Projects:
+--- Duck typing PL implementation ([https://github.com/yoloseem/vict-lang vict-lang])
+---- Technologies: Python, LEPL
+--- Simple Korean NLP in domain of TV control, Broadcasting schedule intelligence
+---- Technologies: Python
 
 == Public Speaks
 - "Venture Strategies" course in [http://www.hanyang.ac.kr/english/ Hanyang University] (March 20, 2015)
@@ -65,3 +58,16 @@ You may find him in below:
 -- Cost saving with Auto-Scaling strategy on AWS
 - The 5th Student Programming Competiton (arranged by [http://icc.skku.ac.kr/ SKKU ICC] and [http://www.kise.or.kr/ KISE]) (June 25, 2011)
 -- Opening Keynote: Communicate with Computer by Human Languages
+
+== Open Source Contirubtions
+- [http://crsmithdev.com/arrow/ Arrow]: [https://github.com/crsmithdev/arrow/pull/62 \#62], [https://github.com/crsmithdev/arrow/pull/67 \#67], [https://github.com/crsmithdev/arrow/pull/68 \#68],
+- [https://flask-debugtoolbar.readthedocs.org/en/latest/ Flask-DebugToolbar]: [https://github.com/mgood/flask-debugtoolbar/pull/43 \#43], [https://github.com/mgood/flask-debugtoolbar/pull/48 \#48]
+- [https://pythonhosted.org/FormEncode-Jinja2/ FormEncode-Jinja2]: [https://github.com/Kroisse/FormEncode-Jinja2/pull/1 \#1]
+- [https://github.com/muan/github-gmail GitHub-Gmail]: [https://github.com/muan/github-gmail/pull/28 \#28]
+- [https://github.com/vimeo/libvmod-boltsort libvmod-boltsort]: [https://github.com/vimeo/libvmod-boltsort/pull/4 \#4]
+- [https://lqez.github.io/logiform/ Logiform]: [https://github.com/lqez/logiform/pull/1 \#1], [https://github.com/lqez/logiform/pull/2 \#2]
+- [https://pypi.python.org/pypi/Okydoky Okydoky]: [https://github.com/crosspop/okydoky/pull/10 \#10]
+- [https://github.com/leekchan/phpy phpy]: [https://github.com/leekchan/phpy/pull/2 \#2], [https://github.com/leekchan/phpy/pull/3 \#3]
+- [http://initd.org/psycopg/ Psycopg2]: [https://github.com/psycopg/psycopg2/pull/272 \#272]
+- [https://github.com/snowplow/referer-parser referer-parser]: [https://github.com/snowplow/referer-parser/pull/52 \#52]
+- [https://github.com/lericson/simples3 simples3]: [https://github.com/lericson/simples3/pull/15 \#15]

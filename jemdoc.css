@@ -9,6 +9,7 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Georgia, serif;
+  font-size: 0.9em;
 	padding-bottom: 8px;
 	margin: 0;
 }
