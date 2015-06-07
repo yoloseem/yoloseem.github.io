@@ -42,7 +42,7 @@
 == Organizations
 - Mentee of [http://www.swmaestro.kr/main.do Software Maestro], 2010 - 2011
 -- Projects:
---- Duck typing PL implementation ([https://github.com/yoloseem/vict-lang vict-lang])
+--- PL design & interpreter implementation ([https://github.com/yoloseem/vict-lang vict-lang])
 ---- Technologies: Python, LEPL
 --- Simple Korean NLP in domain of TV control, Broadcasting schedule intelligence
 ---- Technologies: Python
