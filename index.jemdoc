@@ -11,7 +11,8 @@
 - [http://dimigo.hs.kr/ Korea Digital Media High School], March 2009 - Feburary 2012
 
 == Work Experiences
-- Lead Software Engineer at [http://about.stylesha.re/ StyleShare Inc.], November 2011 - Current
+- Server Developer at [http://linecorp.com/en/ LINE+], July 2015 -
+- Lead Software Engineer at [http://about.stylesha.re/ StyleShare Inc.], November 2011 - June 2015
 -- Built an advertisement system and backends for various features, optimized implementations such as real-time trending contents, set up distributed service architecture and deployment process on Amazon Web Services, and developed in-house SQLAlchemy fork to be seamlessely integrated with memory cache.
 -- Technologies: Python, Flask, Celery, SQLAlchemy, PostgreSQL, PL/pgSQL, Redis, Memcached, Nginx, Varnish, Amazon Web Services, Git
 - Lead Engineer at Yumobi, 2013
