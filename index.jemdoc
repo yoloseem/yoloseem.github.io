@@ -11,7 +11,8 @@
 - [http://dimigo.hs.kr/ Korea Digital Media High School], March 2009 - Feburary 2012
 
 == Work Experiences
-- Server Developer at [http://linecorp.com/en/ LINE+], July 2015 -
+- Software Engineer at THE BEATPACKING COMPANY, April 2016 -
+- Software Engineer at [http://linecorp.com/en/ LINE Plus Corporation], July 2015 - February 2016
 - Lead Software Engineer at [http://about.stylesha.re/ StyleShare Inc.], November 2011 - June 2015
 -- Built an advertisement system and backends for various features, optimized implementations such as real-time trending contents, set up distributed service architecture and deployment process on Amazon Web Services, and developed in-house SQLAlchemy fork to be seamlessely integrated with memory cache.
 -- Technologies: Python, Flask, Celery, SQLAlchemy, PostgreSQL, PL/pgSQL, Redis, Memcached, Nginx, Varnish, Amazon Web Services, Git
