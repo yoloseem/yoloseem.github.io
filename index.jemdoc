@@ -12,7 +12,10 @@
 
 == Work Experiences
 - Software Engineer at THE BEATPACKING COMPANY, April 2016 -
+-- Technologies: Python, Flask, Celery, SQLAlchemy, PostgreSQL, Redis, Memcached, Nginx, Amazon Web Services, Git
 - Software Engineer at [http://linecorp.com/en/ LINE Plus Corporation], July 2015 - February 2016
+-- Participated in developing a deployment system to replace legacy system and to support geographically distributed thousands of servers.
+-- Technologies: Python, Celery, Django, Fabric, PostgreSQL, Redis, Git
 - Lead Software Engineer at [http://about.stylesha.re/ StyleShare Inc.], November 2011 - June 2015
 -- Built an advertisement system and backends for various features, optimized implementations such as real-time trending contents, set up distributed service architecture and deployment process on Amazon Web Services, and developed in-house SQLAlchemy fork to be seamlessely integrated with memory cache.
 -- Technologies: Python, Flask, Celery, SQLAlchemy, PostgreSQL, PL/pgSQL, Redis, Memcached, Nginx, Varnish, Amazon Web Services, Git
@@ -75,3 +78,7 @@
 - [http://initd.org/psycopg/ Psycopg2]: [https://github.com/psycopg/psycopg2/pull/272 \#272]
 - [https://github.com/snowplow/referer-parser referer-parser]: [https://github.com/snowplow/referer-parser/pull/52 \#52]
 - [https://github.com/lericson/simples3 simples3]: [https://github.com/lericson/simples3/pull/15 \#15]
+- [https://github.com/spoqa/sqlalchemy-utc SQLAlchemy-Utc]: [https://github.com/spoqa/sqlalchemy-utc/pull/1
+ \#1]
+- [https://github.com/Yelp/undebt Undebt]: [https://github.com/Yelp/undebt/pull/23 \#23]
+- [https://github.com/youknowone/itunes-iap itunes-iap]: [https://github.com/youknowone/itunes-iap/pull/24 \#24], [https://github.com/youknowone/itunes-iap/pull/27 \#27]
