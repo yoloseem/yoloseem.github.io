@@ -2,16 +2,17 @@
 
 - Name: 김현준 (Hyunjun Kim)
 - Email: [mailto:yoloseem@gmail.com yoloseem@gmail.com]
-- Phone: +82 10-8597-5340
-- Birthdate: 1994. 2. 28.
-- Profiles: [https://github.com/yoloseem GitHub], [https://stackoverflow.com/users/1101388/yoloseem Stack Overflow]
+- Profiles: [https://www.linkedin.com/in/hyunjun-kim-40011023/ LinkedIn], [https://github.com/yoloseem GitHub], [https://stackoverflow.com/users/1101388/yoloseem Stack Overflow]
 
 == Education
 - Undergraduate, [http://cs.hanyang.ac.kr/ Computer Science and Engineering], [http://www.hanyang.ac.kr/english/ Hanyang University], March 2012 -
 - [http://dimigo.hs.kr/ Korea Digital Media High School], March 2009 - Feburary 2012
 
 == Work Experiences
-- Software Engineer at THE BEATPACKING COMPANY, April 2016 -
+- Software Engineer at [http://linecorp.com/en/ LINE Plus Corporation], December 2016 -
+-- [https://clova.ai Clova] Platform development and engineering
+-- Technologies: Go, Python
+- Software Engineer at THE BEATPACKING COMPANY, April 2016 - December 2016
 -- Technologies: Python, Flask, Celery, SQLAlchemy, PostgreSQL, Redis, Memcached, Nginx, Amazon Web Services, Git
 - Software Engineer at [http://linecorp.com/en/ LINE Plus Corporation], July 2015 - February 2016
 -- Participated in developing a deployment system to replace legacy system and to support geographically distributed thousands of servers.
